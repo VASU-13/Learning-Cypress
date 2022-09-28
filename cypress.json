@@ -1,0 +1,7 @@
+{
+  "testFiles": "**/*.feature",
+  "watchForFileChanges": false,
+  "reporter": "cypress-mochawesome-reporter",
+  "video": false
+
+}
