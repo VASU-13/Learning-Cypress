@@ -1,4 +1,4 @@
-@regression
+
 Feature: Login functionality
 
   Scenario: Test Login With Valid Credentials
